@@ -1,1 +1,1 @@
-sudo apt-get -y install apache2-utils squid 
+sudo apt-get -y install squid 
