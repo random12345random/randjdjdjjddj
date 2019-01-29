@@ -1,1 +1,4 @@
+echo "started file" >> /root/file.txt 
 sudo apt-get -y install squid 
+echo "squid installed" >> /root/file.txt 
+
